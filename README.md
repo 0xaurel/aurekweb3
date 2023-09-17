@@ -1,1 +1,1 @@
-# aurekweb3
+# aurel web3 profiles
