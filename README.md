@@ -1,1 +1,1 @@
-# aurel web3 profilea
+# aurel web3 profile
