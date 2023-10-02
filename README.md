@@ -1,3 +1,2 @@
-# aurel web3 profile
-
+# aurel web3 profile.
 - 0xaurelia (1).jpg
